@@ -1,0 +1,14 @@
+{
+    "costco": {
+        "name": "Costco Wholesale",
+        "url": "https://www.costco.com",
+        "logo": "https://www.costco.com/wcsstore/CostcoUSBCCatalogAssetStore/category-tiles/2021/2021-07-01/Tile_1.jpg",
+        "format_profile": "costco.json"
+    },
+    "walmart": {
+        "name": "Walmart",
+        "url": "https://www.walmart.com",
+        "logo": "https://www.walmart.com/images/logo/logo.svg",
+        "format_profile": "walmart.json"
+    }
+}
